@@ -1,5 +1,3 @@
-# Kardelen Gel - 181805057
-
 number_of_elements = int(input("Please, enter the number of elements: "))
 numbers = []
 

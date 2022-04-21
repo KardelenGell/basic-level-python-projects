@@ -1,5 +1,3 @@
-# Kardelen Gel - 181805057
-
 newText= ""
 oldText = str(input("Please, write the text: "))
 

@@ -1,5 +1,3 @@
-# Kardelen Gel - 181805057
-
 print("CALCULATOR")
 print("   ")
 print("1.Addition")
